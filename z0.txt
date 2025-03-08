@@ -1,0 +1,9 @@
+John  25Mary  28Jim   19
+Kelly 21
+Ruth  29
+David 11
+Katy  15
+Jen   5Mel   28Alon  11
+Dina  9
+Seth  11
+
