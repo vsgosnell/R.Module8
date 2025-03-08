@@ -17,9 +17,10 @@
 # this will prompt the user to enter in data from the keyboard in the console
 
 x <- scan("http://www.ats.ucla.edu/stat/data/scan.txt", what = list(age = 0,name = ""))
-
-$age
-
-
+# Error in file(file, "r") : 
+#   cannot open the connection to 'http://www.ats.ucla.edu/stat/data/scan.txt'
+# In addition: Warning message:
+#   In file(file, "r") :
+#   URL 'http://www.ats.ucla.edu/stat/data/scan.txt': Timeout of 60 seconds was reached
 
 
